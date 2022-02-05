@@ -33,7 +33,7 @@ GIF created with [RecordIt](http://www.recordit.co).
 
 ## Notes
 
-No difficulties with base functionality, but the section for editing used a deprecated used a deprecated method and I couldn't figure out how to update it to use the
+No difficulties with base functionality, but the section for editing used a deprecated method and I couldn't figure out how to update it to use the
 new libraries instead.
 
 ## License
