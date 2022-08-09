@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 ![Video Walkthrough](https://user-images.githubusercontent.com/86455800/152633960-4cbe981e-ca37-4771-9b72-d3f4c44cb007.gif)
-https://recordit.co/EHWc5wB9oF - Video link in case GIF doesn't work
+
 
 GIF created with [RecordIt](http://www.recordit.co).
 
